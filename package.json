@@ -1,6 +1,6 @@
 {
   "name": "rogue-fns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "utility function collection",
   "main": "index.js",
   "scripts": {
